@@ -289,3 +289,15 @@ footer{
     }
     
 }
+.preload{
+    width: 100%;
+    background-color:#000 ;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 99999999999;
+    position: fixed;
+    left: 0;
+    top: 0;
+}

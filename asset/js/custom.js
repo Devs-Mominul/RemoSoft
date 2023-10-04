@@ -1,4 +1,6 @@
 
+  $('.preload').delay(500).fadeOut();
+
   AOS.init();
 $(document).ready(function(){
 
